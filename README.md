@@ -11,6 +11,7 @@ Methode GET all data user
 Methode POST untuk Insert data
 
 -   http://127.0.0.1:8000/api/user/
+
     Formant data:
     'name' => 'required',
     'birth_date' => 'required|date_format:Y-m-d',
@@ -24,6 +25,7 @@ Methode GET untuk show 1 data user
 Methode PUT|PATCH untuk update 1 data user
 
 -   http://127.0.0.1:8000/api/user/{id}
+
     Formant data:
     'name' => 'required',
     'birth_date' => 'required|date_format:Y-m-d',
