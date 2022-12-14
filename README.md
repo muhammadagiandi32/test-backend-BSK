@@ -2,6 +2,10 @@ Lampiran test BackEnd, Muhammad Agiandi
 
 -   Route
 
+Route bilangan pattern
+
+-   http://127.0.0.1:8000/pattern
+
 Route resource Restfull API
 
 Methode GET all data user
